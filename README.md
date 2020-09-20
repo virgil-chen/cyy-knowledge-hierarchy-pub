@@ -7,7 +7,7 @@
 1. [JsonChao](https://github.com/JsonChao)
 2. [刘望舒](http://liuwangshu.cn/)
 
-我的博客地址（Github文章会同步到博客中）：
+我的博客地址：
 
 - [CSDN](https://blog.csdn.net/sinat_35109311)
 
