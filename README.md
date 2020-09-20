@@ -46,12 +46,25 @@
 #### B.我的文章列表
 
 1. [Jetpack 简介](https://blog.csdn.net/sinat_35109311/article/details/108670581)
+
 2. [Jetpack 之 LifeCycle 组件使用详解](https://blog.csdn.net/sinat_35109311/article/details/108670617)
 
 ## （二）框架层
 ## （三）跨平台
 
 # 三、工具
+
+#### A.学习资料
+
+1. [Android Studio 下载地址](https://developer.android.google.cn/studio)
+
+2. [Android Studio 用户指南](https://developer.android.google.cn/studio/intro)
+
+#### B.我的文章列表
+
+1. [Android Studio 中实用的工具](doc/工具/Android%20Studio/Android%20Studio%20中实用的工具.md)
+
+2. [Android Studio for mac 快捷键设置](doc/工具/Android%20Studio/Android%20Studio%20for%20mac%20快捷键设置.md)
 
 ## （一）Android Studio
 ## （二）git
