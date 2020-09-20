@@ -9,8 +9,6 @@
 
 我的博客地址：
 
-- [CSDN](https://blog.csdn.net/sinat_35109311)
-
 - [掘金](https://juejin.im/user/1556564193584039/posts)
 
 - [Github pages](https://yancechen.github.io/)
@@ -45,14 +43,16 @@
 
 #### B.我的文章列表
 
-1. [Jetpack 简介](https://blog.csdn.net/sinat_35109311/article/details/108670581)
+1. [Jetpack 简介](https://juejin.im/post/6871039230055809037)
 
-2. [Jetpack 之 LifeCycle 组件使用详解](https://blog.csdn.net/sinat_35109311/article/details/108670617)
+2. [Jetpack 之 LifeCycle 组件使用详解](https://juejin.im/post/6872935442849726478)
 
 ## （二）框架层
 ## （三）跨平台
 
 # 三、工具
+
+## （一）Android Studio
 
 #### A.学习资料
 
@@ -62,11 +62,6 @@
 
 #### B.我的文章列表
 
-1. [Android Studio 中实用的工具](doc/工具/Android%20Studio/Android%20Studio%20中实用的工具.md)
-
-2. [Android Studio for mac 快捷键设置](doc/工具/Android%20Studio/Android%20Studio%20for%20mac%20快捷键设置.md)
-
-## （一）Android Studio
 ## （二）git
 ## （三）Gradle
 
